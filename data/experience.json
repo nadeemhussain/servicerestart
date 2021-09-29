@@ -1,14 +1,20 @@
 [
     {
         "role":"Site Reliability Engineer",
-        "company":"Adobe System",
-        "summary":"Worked on Adobe Data Platform , Digital Marketing Cloud",
-        "range":"June 2015 - July 2017"
+        "company":"Noon Ecommerce",
+        "range":"Dec 2019 - Present"
     },
     {
         "role":"Site Reliability Engineer",
         "company":"Microsoft IDC",
         "summary":"Working on Microsoft Dyanamics",
-        "range":"July 2017 - present"
+        "range":"July 2017 - Nov  2019"
+    },
+    {
+        "role":"Site Reliability Engineer",
+        "company":"Adobe System",
+        "summary":"Worked on Adobe Data Platform , Digital Marketing Cloud",
+        "range":"June 2015 - July 2017"
     }
+
 ]
