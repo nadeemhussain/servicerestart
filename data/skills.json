@@ -19,7 +19,8 @@
             {"name":"AWS","link":"https://aws.amazon.com"},
             {"name":"Google Cloud","link":"https://cloud.google.com"},
             {"name":"Linux","link":"https://bosh.io"},
-            {"name":"Kubernetes","link":"https://kubernetes.io"}
+            {"name":"Kubernetes","link":"https://kubernetes.io"},
+            {"name":"Istio","link":"https://istio.io/"},            
         ]
     }
   ]
